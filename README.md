@@ -2,8 +2,8 @@
 
 1. 현재 git repository를 clone하고 해당 폴더로 이동합니다.
 
-* git clone https://github.com/abcdxyzpqrst/KAIST-AI-LAB2-20190722
-* cd KAIST-AI-LAB2-20190722
+* git clone https://github.com/abcdxyzpqrst/KAIST-AILAB1-20190926
+* cd KAIST-AILAB1-20190926
 
 2. 필요한 python package를 설치합니다.
 
